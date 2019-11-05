@@ -8,18 +8,6 @@ Vampirism also increases your drinking speed. With the default drinking speed Va
 
 Ideally, you would also gain HP from drinking blood from a flask directly (by right clicking a flask in your inventory), but unfortunately, this is not currently possible with the available modding APIs. Though this should really be a base game feature to begin with...
 
-## Always Edit Wands Everywhere
-
-Start with Edit Wands Everywhere. Should also remove it from the Holy Mountain perk pool.
-
-## Always Faster Movement
-
-Start with Faster Movement. Does not remove the perk from the HM perk pool as it is stackable.
-
-## Perk Hoarder
-
-Start with Perk Lottery (and remove it from HM perk pool). Holy Mountain also has four perks by default rather than three.
-
 ## Bigger Inventory (2x/3x/4x)
 
 Increases your inventory size by 2x/3x/4x. Only enable one of these at a time.
@@ -31,3 +19,15 @@ Increases your starting HP to 200. I was tired of always getting the Lava Lake O
 ## Start with Familiar Orbs
 
 The 11 main orbs are now "permanently" collected when found. This means starting each run with the orbs already collected, along with the max HP that comes with them, ie. if you have found all 11 orbs, you start with 25 \* 11 = 275 extra max HP for a total of 375 HP.
+
+## Always Edit Wands Everywhere
+
+Start with Edit Wands Everywhere. Should also remove it from the Holy Mountain perk pool.
+
+## Always Faster Movement
+
+Start with Faster Movement. Does not remove the perk from the HM perk pool as it is stackable.
+
+## Perk Hoarder
+
+Start with Perk Lottery (and remove it from HM perk pool). Holy Mountain also has four perks by default rather than three.
