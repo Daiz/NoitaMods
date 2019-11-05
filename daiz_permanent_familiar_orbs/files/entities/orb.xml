@@ -1,0 +1,15 @@
+<Entity tags="hittable,teleportable_NOT">
+
+	<ItemComponent
+		item_name="Orb"
+		play_spinning_animation="0"
+		auto_pickup="1"
+    	play_pick_sound="0"
+		enable_orb_hacks="1" >
+	</ItemComponent>
+
+	<OrbComponent
+			orb_id="-1" >
+	</OrbComponent>
+
+</Entity>

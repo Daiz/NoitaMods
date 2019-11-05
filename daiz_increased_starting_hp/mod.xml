@@ -1,0 +1,5 @@
+<Mod
+	name="Increased Starting HP"
+	description="Start with 200 max HP."
+	request_no_api_restrictions="0" 
+/>

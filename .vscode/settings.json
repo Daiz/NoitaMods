@@ -1,0 +1,21 @@
+{
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "editor.wordWrap": "bounded",
+  "editor.wordWrapColumn": 80,
+  "files.insertFinalNewline": true,
+  "files.exclude": {
+    "[^d.R]*/": true,
+    "d[^a]*/": true,
+    "da[^i]*/": true,
+    "dai[^z]*/": true,
+    "daiz[^_]*/": true
+  },
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": true
+  },
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "typescript.tsdk": "node_modules\\typescript\\lib"
+}

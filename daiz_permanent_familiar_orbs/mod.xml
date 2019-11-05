@@ -1,0 +1,5 @@
+<Mod
+	name="Start with Familiar Orbs"
+	description="Get familiar orbs at the start of each run for increased max HP."
+	request_no_api_restrictions="0" 
+/>

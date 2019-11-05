@@ -1,0 +1,7 @@
+PLACE_MODS_HERE
+*.zip
+*.rar
+*.7z
+/*/
+!/.vscode
+!/daiz_*
