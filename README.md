@@ -2,6 +2,12 @@
 
 My personal mod collection for [Noita](https://noitagame.com/). You can install the mods by downloading this repository as a zip file and then extracting the results to your `[NOITA_GAME_PATH]\mods` folder. As for mods currently available:
 
+## Better Vampirism
+
+Vampirism also increases your drinking speed. With the default drinking speed Vampirism is extremely undesirable simply due to how long it takes to drink a huge pool of blood, which is what this mod aims to fix.
+
+Ideally, you would also gain HP from drinking blood from a flask directly (by right clicking a flask in your inventory), but unfortunately, this is not currently possible with the available modding APIs. Though this should really be a base game feature to begin with...
+
 ## Always Edit Wands Everywhere
 
 Start with Edit Wands Everywhere. Should also remove it from the Holy Mountain perk pool.
