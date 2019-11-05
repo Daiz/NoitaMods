@@ -1,5 +1,5 @@
 ModLuaFileAppend("data/scripts/items/orb_init.lua",
-                 "mods/permanent_familiar_orbs/files/removeorb.lua")
+                 "mods/daiz_permanent_familiar_orbs/files/removeorb.lua")
 
 function OnPlayerSpawned(player_entity)
     local init_check_flag = "permanent_familiar_orbs_init_done"
@@ -25,15 +25,15 @@ function OnPlayerSpawned(player_entity)
                 if orb_id == 10 then orb_name = tostring(orb_id) end
                 ----[[
                 local orb = EntityLoad(
-                                "mods/permanent_familiar_orbs/files/entities/orb.xml")
+                                "mods/daiz_permanent_familiar_orbs/files/entities/orb.xml")
                 if orb then
                     comp = EntityGetFirstComponent(orb, "OrbComponent")
                     ComponentSetValue(comp, "orb_id", orb_id)
                     EntitySetTransform(orb, player_x, player_y)
                 end
-                --]]--
+                -- ]]--
             end
-            --]]--
+            -- ]]--
 
         end
 
